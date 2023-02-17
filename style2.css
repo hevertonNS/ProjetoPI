@@ -1,0 +1,103 @@
+body {
+    display: flex;
+    justify-content: center;
+    height: 500px;
+}
+
+
+.container {
+    height: 200px;
+    width: 1600px;
+    text-align: center;
+
+}
+
+.cham {
+    margin-top: 20px;
+    color: #FF6700;
+}
+
+.botoes {
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: #FF6700;
+
+
+}
+
+input {
+    border: solid #FF6700 3px;
+
+}
+
+.rod {
+
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    padding: 15px;
+    margin-left: -10px;
+
+}
+
+div img {
+    vertical-align: middle;
+    width: 50px;
+}
+
+.rua img {
+    margin-left: -50px;
+}
+
+div .user {
+    margin-left: -10px;
+    text-align: end;
+
+}
+
+.caderno img {
+
+    margin-left: 15px;
+}
+
+.user img {
+
+    margin-right: 230px;
+
+}
+
+.loc img {
+    margin-left: -280px;
+
+
+}
+
+.situation img {
+
+    margin-left: -290px;
+}
+
+
+.logorod img {
+
+    width: 130px;
+    margin-top: 50px;
+    margin-left: -70px;
+}
+
+td {
+    border: 1px solid #FF6700;
+    height: 100px;
+
+
+}
+
+td img{
+    width: 50px;
+}
+
+.table{
+    background-color: #fffdfd;
+    opacity: 99%;
+}
